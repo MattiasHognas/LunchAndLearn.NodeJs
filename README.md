@@ -1,4 +1,4 @@
 LunchAndLearn.NodeJs
 ====================
 
-Lunch and learn - Node.js lab
+Lunch and learn - NodeJs lab
